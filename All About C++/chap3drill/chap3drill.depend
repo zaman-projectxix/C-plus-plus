@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1432742019 source:c:\users\shawkat\desktop\all about c++\chap3drill\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cmath>
+	<algorithm>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1433524400 source:c:\users\shawkat\desktop\all about c++\for test\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cmath>
+	<string>
+
